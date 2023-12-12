@@ -32,6 +32,8 @@ const HomeScreen = () => {
             console.log(data)
             console.log(details)
           }}
+          fetchDetails={true}
+          returnKeyType={'search'}
           enablePoweredByContainer={false}
           placeholder="Where From?"
           minLength={2}
