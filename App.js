@@ -10,6 +10,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import MapScreen from "./screens/MapScreen";
 import EatScreens from "./screens/EatScreens";
 
+
 const Stack = createNativeStackNavigator();
 
 
